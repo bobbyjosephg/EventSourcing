@@ -1,0 +1,12 @@
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.deps.json
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfo.cs
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\refint\Post.Cmd.Domain.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.pdb
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Domain\obj\Debug\net6.0\ref\Post.Cmd.Domain.dll

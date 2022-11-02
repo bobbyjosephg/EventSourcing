@@ -1,0 +1,15 @@
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.deps.json
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.AssemblyReference.cache
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.AssemblyInfoInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.AssemblyInfo.cs
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\refint\Post.Cmd.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\ref\Post.Cmd.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.dll
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.pdb
+E:\Bobby\Microservices\SM-Post\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CopyComplete

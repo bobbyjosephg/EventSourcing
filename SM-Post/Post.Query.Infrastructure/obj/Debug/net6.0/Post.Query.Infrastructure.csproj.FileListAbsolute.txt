@@ -1,0 +1,12 @@
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.deps.json
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.pdb
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.csproj.AssemblyReference.cache
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.AssemblyInfoInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.AssemblyInfo.cs
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\refint\Post.Query.Infrastructure.dll
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.pdb
+E:\Bobby\Microservices\SM-Post\Post.Query.Infrastructure\obj\Debug\net6.0\ref\Post.Query.Infrastructure.dll

@@ -1,0 +1,15 @@
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+E:\Bobby\Microservices\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+E:\Bobby\Microservices\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+E:\Bobby\Microservices\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+E:\Bobby\Microservices\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+E:\Bobby\Microservices\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+E:\Bobby\Microservices\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll
