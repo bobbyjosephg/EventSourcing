@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TCnFHQKZa5ahqsHjIOzjOjhTbZcwBfmP2UPxc+ghYkQ+mzvJeY1Z29YghShWuit/5ajLoPUuDNu2x9V9xfYTJw==",
+  "dgSpecHash": "pedOtmVfM6Pbi39Qvjym+ZhdUUPB2aWm1d9pNjbwPvwRGgCuH3Lv8bzMpe8Cg1/sOGVCwoGLx6bPwX2cDfrKsw==",
   "success": true,
-  "projectFilePath": "E:\\Bobby\\Microservices\\SM-Post\\Post.Common\\Post.Common.csproj",
+  "projectFilePath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Common\\Post.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

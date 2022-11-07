@@ -8,25 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bobby\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bobby\\Microservices\\SM-Post\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
       "projectName": "Post.Query.Infrastructure",
-      "projectPath": "E:\\Bobby\\Microservices\\SM-Post\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\bobby\\.nuget\\packages\\",
-      "outputPath": "E:\\Bobby\\Microservices\\SM-Post\\Post.Query.Infrastructure\\obj\\",
+      "projectPath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Query.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bobby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -69,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

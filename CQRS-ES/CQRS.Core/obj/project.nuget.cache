@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fss1Jv1Ox483EApilfgAdV7CzWg50vToY4iCakRfLEzpv5n0+oJp/3Hd0E75in/hyg4kuXNPnbaNe7UMYZ1xcQ==",
+  "dgSpecHash": "qMHkTd24SWBQ5YJf/y478mC2hOZJUlv7thaMO+w5A8XWmhrfk8wqAif1PJjy4tPfBLnou42HqgRDIthMyeLcQQ==",
   "success": true,
-  "projectFilePath": "E:\\Bobby\\Microservices\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "projectFilePath": "D:\\Bobby\\Kafka\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
