@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tIw1O0E4+mr73ApO3AwP7sJrZO/DwoFHhq7mdYjgy8TNMT8oFMvXtdRLhBrYEWwc2cJcQyoUnj5UGNsPqskXdw==",
+  "dgSpecHash": "70dx7373Hn4ozJ/q1n33BPL+ORJMV0uwCiGBaekRj0aPwMbWIYtxYpLB2KsInBoKEmyx+4mWb/rk2lPCArOPtw==",
   "success": true,
-  "projectFilePath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "projectFilePath": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

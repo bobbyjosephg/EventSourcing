@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBBJ5SsCJrGBiUNSHESu2ZsQuTjKDmt/ocIAekQdnfZhm3UUjY0hgsdL8uyfrcrzHvVqx2mGvkK2t7e2Li1J2g==",
+  "dgSpecHash": "TKobxzMHPCWHDQBfjI803xaw6Udx70SADDwp+XlkdVM+Z0dWJlYApKNRt7h9+sSNHuBgUcHEFWHoU6jYA1aWHg==",
   "success": true,
-  "projectFilePath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+  "projectFilePath": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

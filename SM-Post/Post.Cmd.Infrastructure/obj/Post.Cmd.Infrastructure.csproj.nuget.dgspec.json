@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {}
+    "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {}
   },
   "projects": {
     "D:\\Bobby\\Kafka\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+    "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "projectName": "Post.Cmd.Infrastructure",
-        "projectPath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectPath": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Infrastructure\\obj\\",
+        "outputPath": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

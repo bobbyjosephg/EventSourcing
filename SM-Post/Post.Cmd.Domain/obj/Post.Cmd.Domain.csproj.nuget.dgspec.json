@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {}
+    "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+    "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectUniqueName": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
         "projectName": "Post.Cmd.Domain",
-        "projectPath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectPath": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Bobby\\Kafka\\CQRS\\SM-Post\\Post.Cmd.Domain\\obj\\",
+        "outputPath": "D:\\Bobby\\Kafka\\CQRS\\SM-POST\\Post.Cmd.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
